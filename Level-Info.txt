@@ -1,0 +1,7 @@
+        Starter: 100 Points
+        Novice: 300 Points
+        Apprentice: 600 Points
+        Journeyman: 1000 Points
+        Expert: 1500 Points
+        Master: 2100 Points
+        Grandmaster: 2800 Points

@@ -43,10 +43,12 @@ Impressive! As an Expert, you're mastering the art of productivity. Stay focused
 Almost at the top! You've achieved the Master level, demonstrating exceptional productivity skills. Keep going to reach the pinnacle.
 
 ## Grandmaster: 2800 Points
-![Starter (3)](https://github.com/tylerlarson919/tytrade/assets/65380343/552d0472-89d6-4da7-abaa-8c14c5854111) | ![Starter](https://github.com/tylerlarson919/tytrade/assets/65380343/8414b83f-15ce-4a1c-a406-09c45c1173a5) | ![Starter (3)](https://github.com/tylerlarson919/tytrade/assets/65380343/6831c00f-093b-4e4c-b8cb-33a81fe32cec) | ![Starter (4)](https://github.com/tylerlarson919/tytrade/assets/65380343/c732865a-69aa-454e-8f5a-5eed9c14eeb2) | ![Starter (3)](https://github.com/tylerlarson919/tytrade/assets/65380343/d4333683-3b73-4a3a-85a0-deac7ec2d7da)
---- | --- | --- | --- | ---
- 
 
+![Starter (3)](https://github.com/tylerlarson919/tytrade/assets/65380343/552d0472-89d6-4da7-abaa-8c14c5854111) | ![Starter](https://github.com/tylerlarson919/tytrade/assets/65380343/8414b83f-15ce-4a1c-a406-09c45c1173a5) | ![Starter (3)](https://github.com/tylerlarson919/tytrade/assets/65380343/6831c00f-093b-4e4c-b8cb-33a81fe32cec)
+--- | --- | ---
+
+![Starter (4)](https://github.com/tylerlarson919/tytrade/assets/65380343/c732865a-69aa-454e-8f5a-5eed9c14eeb2) | ![Starter (3)](https://github.com/tylerlarson919/tytrade/assets/65380343/d4333683-3b73-4a3a-85a0-deac7ec2d7da)
+--- | ---
 
 Congratulations, you're a Grandmaster! You've reached the highest level of productivity mastery. Keep up the excellent work and inspire others along the way.
 
